@@ -17,3 +17,19 @@ The largest problem is that the whole code and transactions are public, giving t
 
 
 ZIION is a Linux distribution that comes pre-packaged with most of the tools, libraries, repositories, and development/security tools needed to do security pen-testing or research on smart contracts. Developed and maintained by Halborn Inc.
+
+
+
+ZIION is used as the standalone operating system to perform all auditing and security testing for Blockchain and Smart Contracts. It includes over 100 tools, utilities, dependencies, and packages to immediately begin working with Solidity/EVM and Rust-based blockchains like:
+•	Ethereum (EVM)
+•	Bitcoin
+•	Solana
+•	Terra
+•	Polygon
+•	BSC
+•	Substrate
+•	Near
+•	And more…
+
+Check for Download: 
+https://www.ziion.org/download
