@@ -6,5 +6,8 @@ The three main features of Smart Contracts (transparency, immutability and the a
 
 
 
+"Imagine trying to hack Bank of America— except you can read all of their code in advance, all of their transactions are public, and if you steal the money it’s irreversible. Sounds like a paranoid worst-case scenario? Well, this is exactly the setup Ethereum smart contract developers have to deal with every day." -- Ivan Bogatyy
+
+
 
 
