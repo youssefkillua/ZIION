@@ -16,3 +16,4 @@ The largest problem is that the whole code and transactions are public, giving t
 
 
 
+ZIION is a Linux distribution that comes pre-packaged with most of the tools, libraries, repositories, and development/security tools needed to do security pen-testing or research on smart contracts. Developed and maintained by Halborn Inc.
